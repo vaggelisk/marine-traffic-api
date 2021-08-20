@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f31abe25-cbc5-44c7-844e-050ca633cb0f" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-    </list>
+    <list default="true" id="f31abe25-cbc5-44c7-844e-050ca633cb0f" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,7 +14,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Vessel.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Vessel.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Entity/Vessel.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="2655">
@@ -63,12 +61,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="384">
-                <caret line="76" selection-start-line="76" selection-end-line="76" />
+              <first_editor relative-caret-position="1260">
+                <caret line="84" column="60" selection-start-line="84" selection-start-column="60" selection-end-line="84" selection-end-column="60" />
               </first_editor>
               <second_editor />
             </state>
@@ -341,12 +339,12 @@
       <workItem from="1628617087931" duration="797000" />
       <workItem from="1629368050870" duration="22124000" />
       <workItem from="1629396644590" duration="8099000" />
-      <workItem from="1629437756813" duration="18982000" />
+      <workItem from="1629437756813" duration="19252000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="76682000" />
+    <option name="totallyTimeSpent" value="76952000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="1299" height="743" extended-state="6" />
@@ -660,16 +658,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="384">
-            <caret line="76" selection-start-line="76" selection-end-line="76" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Entity/Vessel.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2655">
@@ -677,6 +665,16 @@
           <folding>
             <element signature="e#30#66#0#PHP" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="1260">
+            <caret line="84" column="60" selection-start-line="84" selection-start-column="60" selection-end-line="84" selection-end-column="60" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
